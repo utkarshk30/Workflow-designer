@@ -16,7 +16,7 @@ export default function Home() {
         <span className="text-sm text-gray-300 font-semibold">
           designed by :{" "}
         </span>
-        <span className="font-bold text-base ">Rohit Siva Sai</span>
+        <span className="font-bold text-base ">Utkarsh Khurana</span>
       </div>
     </>
   );
